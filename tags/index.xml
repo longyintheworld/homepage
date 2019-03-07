@@ -1,67 +1,48 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Tags on Hugo Ivy</title>
-    <link>https://longyintheworld.github.io/homepage/tags/</link>
-    <description>Recent content in Tags on Hugo Ivy</description>
+    <title>Tags on 龙 吟</title>
+    <link>https://longyintheworld.github.io/tags/</link>
+    <description>Recent content in Tags on 龙 吟</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Sun, 14 Feb 2016 00:00:00 +0000</lastBuildDate>
     
-	<atom:link href="https://longyintheworld.github.io/homepage/tags/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://longyintheworld.github.io/tags/index.xml" rel="self" type="application/rss+xml" />
     
-    
-    <item>
-      <title>Markdown</title>
-      <link>https://longyintheworld.github.io/homepage/tags/markdown/</link>
-      <pubDate>Sun, 14 Feb 2016 00:00:00 +0000</pubDate>
-      
-      <guid>https://longyintheworld.github.io/homepage/tags/markdown/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>MathJax</title>
-      <link>https://longyintheworld.github.io/homepage/tags/mathjax/</link>
-      <pubDate>Sun, 14 Feb 2016 00:00:00 +0000</pubDate>
-      
-      <guid>https://longyintheworld.github.io/homepage/tags/mathjax/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Pandoc</title>
-      <link>https://longyintheworld.github.io/homepage/tags/pandoc/</link>
-      <pubDate>Sun, 14 Feb 2016 00:00:00 +0000</pubDate>
-      
-      <guid>https://longyintheworld.github.io/homepage/tags/pandoc/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>RStudio</title>
-      <link>https://longyintheworld.github.io/homepage/tags/rstudio/</link>
-      <pubDate>Sun, 14 Feb 2016 00:00:00 +0000</pubDate>
-      
-      <guid>https://longyintheworld.github.io/homepage/tags/rstudio/</guid>
-      <description></description>
-    </item>
     
     <item>
       <title>Tutorial</title>
-      <link>https://longyintheworld.github.io/homepage/tags/tutorial/</link>
+      <link>https://longyintheworld.github.io/tags/tutorial/</link>
       <pubDate>Wed, 14 Jun 2017 00:00:00 +0000</pubDate>
       
-      <guid>https://longyintheworld.github.io/homepage/tags/tutorial/</guid>
+      <guid>https://longyintheworld.github.io/tags/tutorial/</guid>
       <description></description>
     </item>
     
     <item>
-      <title>blogdown</title>
-      <link>https://longyintheworld.github.io/homepage/tags/blogdown/</link>
-      <pubDate>Sun, 14 Feb 2016 00:00:00 +0000</pubDate>
+      <title>思考</title>
+      <link>https://longyintheworld.github.io/tags/%E6%80%9D%E8%80%83/</link>
+      <pubDate>Tue, 20 Nov 2018 00:00:00 +0000</pubDate>
       
-      <guid>https://longyintheworld.github.io/homepage/tags/blogdown/</guid>
+      <guid>https://longyintheworld.github.io/tags/%E6%80%9D%E8%80%83/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>旅行</title>
+      <link>https://longyintheworld.github.io/tags/%E6%97%85%E8%A1%8C/</link>
+      <pubDate>Sat, 01 Jul 2017 00:00:00 +0000</pubDate>
+      
+      <guid>https://longyintheworld.github.io/tags/%E6%97%85%E8%A1%8C/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>读书</title>
+      <link>https://longyintheworld.github.io/tags/%E8%AF%BB%E4%B9%A6/</link>
+      <pubDate>Mon, 03 Apr 2017 00:00:00 +0000</pubDate>
+      
+      <guid>https://longyintheworld.github.io/tags/%E8%AF%BB%E4%B9%A6/</guid>
       <description></description>
     </item>
     

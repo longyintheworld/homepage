@@ -1,23 +1,24 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Tutorial on Hugo Ivy</title>
-    <link>https://longyintheworld.github.io/homepage/tags/tutorial/</link>
-    <description>Recent content in Tutorial on Hugo Ivy</description>
+    <title>Tutorial on 龙 吟</title>
+    <link>https://longyintheworld.github.io/tags/tutorial/</link>
+    <description>Recent content in Tutorial on 龙 吟</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Wed, 14 Jun 2017 00:00:00 +0000</lastBuildDate>
     
-	<atom:link href="https://longyintheworld.github.io/homepage/tags/tutorial/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://longyintheworld.github.io/tags/tutorial/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>Another Note on A blogdown Tutorial</title>
-      <link>https://longyintheworld.github.io/homepage/note/2017/06/14/another-note/</link>
+      <link>https://longyintheworld.github.io/note/2017/06/14/another-note/</link>
       <pubDate>Wed, 14 Jun 2017 00:00:00 +0000</pubDate>
       
-      <guid>https://longyintheworld.github.io/homepage/note/2017/06/14/another-note/</guid>
-      <description>I just discovered an awesome tutorial on blogdown written by Alison. I have to admit this is the best blogdown tutorial I have seen so far.</description>
+      <guid>https://longyintheworld.github.io/note/2017/06/14/another-note/</guid>
+      <description>To me, the two most impressive websites based on blogdown are:
+ Rob J Hyndman&amp;rsquo;s personal website. Live Free or Dichotomize by Lucy and Nick et al.  I just discovered an awesome tutorial on blogdown written by Alison. I have to admit this is the best blogdown tutorial I have seen so far.</description>
     </item>
     
   </channel>
