@@ -1,130 +1,67 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Tags on Cupper</title>
-    <link>https://longyintheworld.github.io/homepage/tags/</link>
-    <description>Recent content in Tags on Cupper</description>
+    <title>Tags on Hugo Ivy</title>
+    <link>/tags/</link>
+    <description>Recent content in Tags on Hugo Ivy</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Sun, 28 Sep 2014 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 14 Feb 2016 00:00:00 +0000</lastBuildDate>
     
-	<atom:link href="https://longyintheworld.github.io/homepage/tags/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="/tags/index.xml" rel="self" type="application/rss+xml" />
     
-    
-    <item>
-      <title>Command Line</title>
-      <link>https://longyintheworld.github.io/homepage/tags/command-line/</link>
-      <pubDate>Sun, 28 Sep 2014 00:00:00 +0000</pubDate>
-      
-      <guid>https://longyintheworld.github.io/homepage/tags/command-line/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Fun</title>
-      <link>https://longyintheworld.github.io/homepage/tags/fun/</link>
-      <pubDate>Wed, 02 Apr 2014 00:00:00 +0000</pubDate>
-      
-      <guid>https://longyintheworld.github.io/homepage/tags/fun/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Git</title>
-      <link>https://longyintheworld.github.io/homepage/tags/git/</link>
-      <pubDate>Wed, 02 Apr 2014 00:00:00 +0000</pubDate>
-      
-      <guid>https://longyintheworld.github.io/homepage/tags/git/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Go</title>
-      <link>https://longyintheworld.github.io/homepage/tags/go/</link>
-      <pubDate>Wed, 02 Apr 2014 00:00:00 +0000</pubDate>
-      
-      <guid>https://longyintheworld.github.io/homepage/tags/go/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Hugo</title>
-      <link>https://longyintheworld.github.io/homepage/tags/hugo/</link>
-      <pubDate>Thu, 14 Feb 2019 15:36:09 -0600</pubDate>
-      
-      <guid>https://longyintheworld.github.io/homepage/tags/hugo/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Jekyll</title>
-      <link>https://longyintheworld.github.io/homepage/tags/jekyll/</link>
-      <pubDate>Mon, 10 Mar 2014 00:00:00 +0000</pubDate>
-      
-      <guid>https://longyintheworld.github.io/homepage/tags/jekyll/</guid>
-      <description></description>
-    </item>
     
     <item>
       <title>Markdown</title>
-      <link>https://longyintheworld.github.io/homepage/tags/markdown/</link>
-      <pubDate>Thu, 14 Feb 2019 15:36:09 -0600</pubDate>
+      <link>/tags/markdown/</link>
+      <pubDate>Sun, 14 Feb 2016 00:00:00 +0000</pubDate>
       
-      <guid>https://longyintheworld.github.io/homepage/tags/markdown/</guid>
+      <guid>/tags/markdown/</guid>
       <description></description>
     </item>
     
     <item>
-      <title>Migration</title>
-      <link>https://longyintheworld.github.io/homepage/tags/migration/</link>
-      <pubDate>Mon, 10 Mar 2014 00:00:00 +0000</pubDate>
+      <title>MathJax</title>
+      <link>/tags/mathjax/</link>
+      <pubDate>Sun, 14 Feb 2016 00:00:00 +0000</pubDate>
       
-      <guid>https://longyintheworld.github.io/homepage/tags/migration/</guid>
+      <guid>/tags/mathjax/</guid>
       <description></description>
     </item>
     
     <item>
-      <title>Nasa</title>
-      <link>https://longyintheworld.github.io/homepage/tags/nasa/</link>
-      <pubDate>Thu, 27 Dec 2018 20:46:49 -0600</pubDate>
+      <title>Pandoc</title>
+      <link>/tags/pandoc/</link>
+      <pubDate>Sun, 14 Feb 2016 00:00:00 +0000</pubDate>
       
-      <guid>https://longyintheworld.github.io/homepage/tags/nasa/</guid>
+      <guid>/tags/pandoc/</guid>
       <description></description>
     </item>
     
     <item>
-      <title>Quotes</title>
-      <link>https://longyintheworld.github.io/homepage/tags/quotes/</link>
-      <pubDate>Wed, 26 Dec 2018 00:29:41 -0600</pubDate>
+      <title>RStudio</title>
+      <link>/tags/rstudio/</link>
+      <pubDate>Sun, 14 Feb 2016 00:00:00 +0000</pubDate>
       
-      <guid>https://longyintheworld.github.io/homepage/tags/quotes/</guid>
+      <guid>/tags/rstudio/</guid>
       <description></description>
     </item>
     
     <item>
-      <title>Shortcodes</title>
-      <link>https://longyintheworld.github.io/homepage/tags/shortcodes/</link>
-      <pubDate>Tue, 12 Feb 2019 23:39:06 -0600</pubDate>
+      <title>Tutorial</title>
+      <link>/tags/tutorial/</link>
+      <pubDate>Wed, 14 Jun 2017 00:00:00 +0000</pubDate>
       
-      <guid>https://longyintheworld.github.io/homepage/tags/shortcodes/</guid>
+      <guid>/tags/tutorial/</guid>
       <description></description>
     </item>
     
     <item>
-      <title>Templates</title>
-      <link>https://longyintheworld.github.io/homepage/tags/templates/</link>
-      <pubDate>Wed, 02 Apr 2014 00:00:00 +0000</pubDate>
+      <title>blogdown</title>
+      <link>/tags/blogdown/</link>
+      <pubDate>Sun, 14 Feb 2016 00:00:00 +0000</pubDate>
       
-      <guid>https://longyintheworld.github.io/homepage/tags/templates/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Theme</title>
-      <link>https://longyintheworld.github.io/homepage/tags/theme/</link>
-      <pubDate>Sun, 28 Sep 2014 00:00:00 +0000</pubDate>
-      
-      <guid>https://longyintheworld.github.io/homepage/tags/theme/</guid>
+      <guid>/tags/blogdown/</guid>
       <description></description>
     </item>
     

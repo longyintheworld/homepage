@@ -3,141 +3,103 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
-    <loc>https://longyintheworld.github.io/homepage/cupper-typography/</loc>
-    <lastmod>2019-02-14T15:36:09-06:00</lastmod>
+    <loc>/about/</loc>
+    <lastmod>2017-08-06T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://longyintheworld.github.io/homepage/cupper-shortcodes/</loc>
-    <lastmod>2019-02-12T23:39:06-06:00</lastmod>
+    <loc>/note/2017/06/14/another-note/</loc>
+    <lastmod>2017-06-14T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://longyintheworld.github.io/homepage/nasa-images/</loc>
-    <lastmod>2018-12-27T20:46:49-06:00</lastmod>
+    <loc>/note/2017/06/13/a-quick-note/</loc>
+    <lastmod>2017-06-13T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://longyintheworld.github.io/homepage/quotes-by-carl-jung/</loc>
-    <lastmod>2018-12-26T00:29:41-06:00</lastmod>
+    <loc>/post/2016/02/14/a-plain-markdown-post/</loc>
+    <lastmod>2016-02-14T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://longyintheworld.github.io/homepage/</loc>
-    <lastmod>2017-06-26T18:27:58+01:00</lastmod>
+    <loc>/post/2015/07/23/lorem-ipsum/</loc>
+    <lastmod>2015-07-23T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://longyintheworld.github.io/homepage/creating-a-new-theme/</loc>
-    <lastmod>2014-09-28T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://longyintheworld.github.io/homepage/about/</loc>
-    <lastmod>2014-04-09T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://longyintheworld.github.io/homepage/goisforlovers/</loc>
-    <lastmod>2014-04-02T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://longyintheworld.github.io/homepage/hugoisforlovers/</loc>
-    <lastmod>2014-04-02T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://longyintheworld.github.io/homepage/migrate-from-jekyll/</loc>
-    <lastmod>2014-03-10T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://longyintheworld.github.io/homepage/post/</loc>
-    <lastmod>2019-02-14T15:36:09-06:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://longyintheworld.github.io/homepage/tags/command-line/</loc>
-    <lastmod>2014-09-28T00:00:00+00:00</lastmod>
+    <loc>/categories/</loc>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>https://longyintheworld.github.io/homepage/tags/fun/</loc>
-    <lastmod>2014-04-02T00:00:00+00:00</lastmod>
+    <loc>/categories/example/</loc>
+    <lastmod>2017-06-14T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>https://longyintheworld.github.io/homepage/tags/git/</loc>
-    <lastmod>2014-04-02T00:00:00+00:00</lastmod>
+    <loc>/</loc>
+    <lastmod>2017-08-06T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/categories/hugo/</loc>
+    <lastmod>2016-02-14T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>https://longyintheworld.github.io/homepage/tags/go/</loc>
-    <lastmod>2014-04-02T00:00:00+00:00</lastmod>
+    <loc>/tags/markdown/</loc>
+    <lastmod>2016-02-14T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>https://longyintheworld.github.io/homepage/tags/hugo/</loc>
-    <lastmod>2019-02-14T15:36:09-06:00</lastmod>
+    <loc>/tags/mathjax/</loc>
+    <lastmod>2016-02-14T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>https://longyintheworld.github.io/homepage/tags/jekyll/</loc>
-    <lastmod>2014-03-10T00:00:00+00:00</lastmod>
+    <loc>/note/</loc>
+    <lastmod>2017-06-14T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>https://longyintheworld.github.io/homepage/tags/markdown/</loc>
-    <lastmod>2019-02-14T15:36:09-06:00</lastmod>
+    <loc>/tags/pandoc/</loc>
+    <lastmod>2016-02-14T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>https://longyintheworld.github.io/homepage/tags/migration/</loc>
-    <lastmod>2014-03-10T00:00:00+00:00</lastmod>
+    <loc>/post/</loc>
+    <lastmod>2016-02-14T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>https://longyintheworld.github.io/homepage/tags/nasa/</loc>
-    <lastmod>2018-12-27T20:46:49-06:00</lastmod>
+    <loc>/tags/rstudio/</loc>
+    <lastmod>2016-02-14T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>https://longyintheworld.github.io/homepage/tags/quotes/</loc>
-    <lastmod>2018-12-26T00:29:41-06:00</lastmod>
+    <loc>/tags/</loc>
+    <lastmod>2016-02-14T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>https://longyintheworld.github.io/homepage/tags/shortcodes/</loc>
-    <lastmod>2019-02-12T23:39:06-06:00</lastmod>
+    <loc>/tags/tutorial/</loc>
+    <lastmod>2017-06-14T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>https://longyintheworld.github.io/homepage/tags/</loc>
-    <lastmod>2014-09-28T00:00:00+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>https://longyintheworld.github.io/homepage/tags/templates/</loc>
-    <lastmod>2014-04-02T00:00:00+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>https://longyintheworld.github.io/homepage/tags/theme/</loc>
-    <lastmod>2014-09-28T00:00:00+00:00</lastmod>
+    <loc>/tags/blogdown/</loc>
+    <lastmod>2016-02-14T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   

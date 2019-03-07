@@ -1,25 +1,15 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Home on Hugo Ivy</title>
-    <link>/</link>
-    <description>Recent content in Home on Hugo Ivy</description>
+    <title>Example on Hugo Ivy</title>
+    <link>/categories/example/</link>
+    <description>Recent content in Example on Hugo Ivy</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Sun, 06 Aug 2017 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 14 Jun 2017 00:00:00 +0000</lastBuildDate>
     
-	<atom:link href="/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="/categories/example/index.xml" rel="self" type="application/rss+xml" />
     
-    
-    <item>
-      <title>About Hugo Ivy</title>
-      <link>/about/</link>
-      <pubDate>Sun, 06 Aug 2017 00:00:00 +0000</pubDate>
-      
-      <guid>/about/</guid>
-      <description>This Hugo theme was ported from Ivy, a minimalist website generator built in Python. I don&amp;rsquo;t have time to document this theme. You have to read the source code to understand what it can do. All I can say for now is that I love it. It is clean, minimal, and responsive.
-I hope you will enjoy this theme. The source code is on Github. Happy hacking!</description>
-    </item>
     
     <item>
       <title>Another Note on A blogdown Tutorial</title>
